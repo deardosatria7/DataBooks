@@ -1,0 +1,70 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#table-container {
+  overflow-x: auto;
+  max-width: 80%;
+  margin: 20px auto;
+}
+
+#json-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#json-table th,
+#json-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#json-table th {
+  background-color: #f2f2f2;
+}
+
+#nextButton {
+  background-color: #7892c2;
+  border-radius: 9px;
+  border: 1px solid #4e6096;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 6px 12px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #283966;
+  display: none; /* Disembunyikan secara default */
+  margin-top: 10px;
+}
+
+#prevButton {
+  background-color: #e61e1e;
+  border-radius: 9px;
+  border: 1px solid #000000;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 6px 12px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #283966;
+  display: none; /* Disembunyikan secara default */
+  margin-top: 10px;
+}
+
+#prev-next-button {
+  display: flex;
+  gap: 8px;
+}
+
+#book-img {
+  max-width: 100%; /* Ini membuat gambar memiliki lebar maksimum 100% dari div */
+  height: auto; /* Ini membuat tinggi gambar disesuaikan dengan lebar secara proporsional */
+  display: block; /* Ini untuk menghilangkan efek whitespace di bagian bawah gambar */
+  margin: 0 auto; /* Ini untuk membuat gambar berada di tengah div */
+}

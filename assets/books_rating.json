@@ -1,0 +1,362 @@
+[
+  {
+    "Index": 408,
+    "ISBN": 316666343,
+    "Book-Title": "The Lovely Bones: A Novel",
+    "Book-Author": "Alice Sebold",
+    "Year-Of-Publication": 2002,
+    "Publisher": "Little, Brown",
+    "Book-Rating": 5787
+  },
+  {
+    "Index": 748,
+    "ISBN": 385504209,
+    "Book-Title": "The Da Vinci Code",
+    "Book-Author": "Dan Brown",
+    "Year-Of-Publication": 2003,
+    "Publisher": "Doubleday",
+    "Book-Rating": 4108
+  },
+  {
+    "Index": 522,
+    "ISBN": 312195516,
+    "Book-Title": "The Red Tent (Bestselling Backlist)",
+    "Book-Author": "Anita Diamant",
+    "Year-Of-Publication": 1998,
+    "Publisher": "Picador USA",
+    "Book-Rating": 3134
+  },
+  {
+    "Index": 2143,
+    "ISBN": "059035342X",
+    "Book-Title": "Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback))",
+    "Book-Author": "J. K. Rowling",
+    "Year-Of-Publication": 1999,
+    "Publisher": "Arthur A. Levine Books",
+    "Book-Rating": 2798
+  },
+  {
+    "Index": 356,
+    "ISBN": 142001740,
+    "Book-Title": "The Secret Life of Bees",
+    "Book-Author": "Sue Monk Kidd",
+    "Year-Of-Publication": 2003,
+    "Publisher": "Penguin Books",
+    "Book-Rating": 2595
+  },
+  {
+    "Index": 26,
+    "ISBN": 971880107,
+    "Book-Title": "Wild Animus",
+    "Book-Author": "Rich Shapero",
+    "Year-Of-Publication": 2004,
+    "Publisher": "Too Far",
+    "Book-Rating": 2551
+  },
+  {
+    "Index": 1105,
+    "ISBN": 60928336,
+    "Book-Title": "Divine Secrets of the Ya-Ya Sisterhood: A Novel",
+    "Book-Author": "Rebecca Wells",
+    "Year-Of-Publication": 1997,
+    "Publisher": "Perennial",
+    "Book-Rating": 2524
+  },
+  {
+    "Index": 706,
+    "ISBN": 446672211,
+    "Book-Title": "Where the Heart Is (Oprah's Book Club (Paperback))",
+    "Book-Author": "Billie Letts",
+    "Year-Of-Publication": 1998,
+    "Publisher": "Warner Books",
+    "Book-Rating": 2402
+  },
+  {
+    "Index": 231,
+    "ISBN": 452282152,
+    "Book-Title": "Girl with a Pearl Earring",
+    "Book-Author": "Tracy Chevalier",
+    "Year-Of-Publication": 2001,
+    "Publisher": "Plume Books",
+    "Book-Rating": 2219
+  },
+  {
+    "Index": 118,
+    "ISBN": 671027360,
+    "Book-Title": "Angels &amp; Demons",
+    "Book-Author": "Dan Brown",
+    "Year-Of-Publication": 2001,
+    "Publisher": "Pocket Star",
+    "Book-Rating": 2179
+  },
+  {
+    "Index": 305,
+    "ISBN": "044023722X",
+    "Book-Title": "A Painted House",
+    "Book-Author": "John Grisham",
+    "Year-Of-Publication": 2001,
+    "Publisher": "Dell Publishing Company",
+    "Book-Rating": 2062
+  },
+  {
+    "Index": 4824,
+    "ISBN": 316601950,
+    "Book-Title": "The Pilot's Wife : A Novel",
+    "Book-Author": "Anita Shreve",
+    "Year-Of-Publication": 1999,
+    "Publisher": "Back Bay Books",
+    "Book-Rating": 2041
+  },
+  {
+    "Index": 1922,
+    "ISBN": "067976402X",
+    "Book-Title": "Snow Falling on Cedars",
+    "Book-Author": "David Guterson",
+    "Year-Of-Publication": 1995,
+    "Publisher": "Vintage Books USA",
+    "Book-Rating": 1999
+  },
+  {
+    "Index": 107,
+    "ISBN": 786868716,
+    "Book-Title": "The Five People You Meet in Heaven",
+    "Book-Author": "Mitch Albom",
+    "Year-Of-Publication": 2003,
+    "Publisher": "Hyperion",
+    "Book-Rating": 1940
+  },
+  {
+    "Index": 37,
+    "ISBN": 446310786,
+    "Book-Title": "To Kill a Mockingbird",
+    "Book-Author": "Harper Lee",
+    "Year-Of-Publication": 1988,
+    "Publisher": "Little Brown &amp; Company",
+    "Book-Rating": 1914
+  },
+  {
+    "Index": 1496,
+    "ISBN": 743418174,
+    "Book-Title": "Good in Bed",
+    "Book-Author": "Jennifer Weiner",
+    "Year-Of-Publication": 2002,
+    "Publisher": "Washington Square Press",
+    "Book-Rating": 1899
+  },
+  {
+    "Index": 90,
+    "ISBN": 316769487,
+    "Book-Title": "The Catcher in the Rye",
+    "Book-Author": "J.D. Salinger",
+    "Year-Of-Publication": 1991,
+    "Publisher": "Little, Brown",
+    "Book-Rating": 1868
+  },
+  {
+    "Index": 5506,
+    "ISBN": "043935806X",
+    "Book-Title": "Harry Potter and the Order of the Phoenix (Book 5)",
+    "Book-Author": "J. K. Rowling",
+    "Year-Of-Publication": 2003,
+    "Publisher": "Scholastic",
+    "Book-Rating": 1861
+  },
+  {
+    "Index": 563,
+    "ISBN": 156027321,
+    "Book-Title": "Life of Pi",
+    "Book-Author": "Yann Martel",
+    "Year-Of-Publication": 2003,
+    "Publisher": "Harvest Books",
+    "Book-Rating": 1815
+  },
+  {
+    "Index": 2526,
+    "ISBN": 345337662,
+    "Book-Title": "Interview with the Vampire",
+    "Book-Author": "Anne Rice",
+    "Year-Of-Publication": 1993,
+    "Publisher": "Ballantine Books",
+    "Book-Rating": 1789
+  },
+  {
+    "Index": 1373,
+    "ISBN": 60930535,
+    "Book-Title": "The Poisonwood Bible: A Novel",
+    "Book-Author": "Barbara Kingsolver",
+    "Year-Of-Publication": 1999,
+    "Publisher": "Perennial",
+    "Book-Rating": 1783
+  },
+  {
+    "Index": 2290,
+    "ISBN": 385484518,
+    "Book-Title": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",
+    "Book-Author": "MITCH ALBOM",
+    "Year-Of-Publication": 1997,
+    "Publisher": "Doubleday",
+    "Book-Rating": 1723
+  },
+  {
+    "Index": 541,
+    "ISBN": 312278586,
+    "Book-Title": "The Nanny Diaries: A Novel",
+    "Book-Author": "Emma McLaughlin",
+    "Year-Of-Publication": 2002,
+    "Publisher": "St. Martin's Press",
+    "Book-Rating": 1705
+  },
+  {
+    "Index": 4430,
+    "ISBN": 375727345,
+    "Book-Title": "House of Sand and Fog",
+    "Book-Author": "Andre Dubus III",
+    "Year-Of-Publication": 2000,
+    "Publisher": "Vintage Books",
+    "Book-Rating": 1678
+  },
+  {
+    "Index": 485,
+    "ISBN": 671021001,
+    "Book-Title": "She's Come Undone (Oprah's Book Club)",
+    "Book-Author": "Wally Lamb",
+    "Year-Of-Publication": 1998,
+    "Publisher": "Pocket",
+    "Book-Rating": 1671
+  },
+  {
+    "Index": 3459,
+    "ISBN": 439064872,
+    "Book-Title": "Harry Potter and the Chamber of Secrets (Book 2)",
+    "Book-Author": "J. K. Rowling",
+    "Year-Of-Publication": 2000,
+    "Publisher": "Scholastic",
+    "Book-Rating": 1660
+  },
+  {
+    "Index": 456,
+    "ISBN": "044021145X",
+    "Book-Title": "The Firm",
+    "Book-Author": "John Grisham",
+    "Year-Of-Publication": 1992,
+    "Publisher": "Bantam Dell Publishing Group",
+    "Book-Rating": 1627
+  },
+  {
+    "Index": 1680,
+    "ISBN": 440226430,
+    "Book-Title": "Summer Sisters",
+    "Book-Author": "Judy Blume",
+    "Year-Of-Publication": 1999,
+    "Publisher": "Dell Publishing Company",
+    "Book-Rating": 1617
+  },
+  {
+    "Index": 67,
+    "ISBN": 804106304,
+    "Book-Title": "The Joy Luck Club",
+    "Book-Author": "Amy Tan",
+    "Year-Of-Publication": 1994,
+    "Publisher": "Prentice Hall (K-12)",
+    "Book-Rating": 1590
+  },
+  {
+    "Index": 2602,
+    "ISBN": 446605239,
+    "Book-Title": "The Notebook",
+    "Book-Author": "Nicholas Sparks",
+    "Year-Of-Publication": 1998,
+    "Publisher": "Warner Books",
+    "Book-Rating": 1584
+  },
+  {
+    "Index": 1195,
+    "ISBN": 345370775,
+    "Book-Title": "Jurassic Park",
+    "Book-Author": "Michael Crichton",
+    "Year-Of-Publication": 1999,
+    "Publisher": "Ballantine Books",
+    "Book-Rating": 1570
+  },
+  {
+    "Index": 1106,
+    "ISBN": 671003755,
+    "Book-Title": "She's Come Undone (Oprah's Book Club (Paperback))",
+    "Book-Author": "Wally Lamb",
+    "Year-Of-Publication": 1996,
+    "Publisher": "Washington Square Press",
+    "Book-Rating": 1559
+  },
+  {
+    "Index": 1387,
+    "ISBN": 345361792,
+    "Book-Title": "A Prayer for Owen Meany",
+    "Book-Author": "John Irving",
+    "Year-Of-Publication": 1990,
+    "Publisher": "Ballantine Books",
+    "Book-Rating": 1558
+  },
+  {
+    "Index": 953,
+    "ISBN": 440211727,
+    "Book-Title": "A Time to Kill",
+    "Book-Author": "JOHN GRISHAM",
+    "Year-Of-Publication": 1992,
+    "Publisher": "Dell",
+    "Book-Rating": 1539
+  },
+  {
+    "Index": 28,
+    "ISBN": 345417623,
+    "Book-Title": "Timeline",
+    "Book-Author": "MICHAEL CRICHTON",
+    "Year-Of-Publication": 2000,
+    "Publisher": "Ballantine Books",
+    "Book-Rating": 1531
+  },
+  {
+    "Index": 1406,
+    "ISBN": 1400034779,
+    "Book-Title": "The No. 1 Ladies' Detective Agency (Today Show Book Club #8)",
+    "Book-Author": "Alexander McCall Smith",
+    "Year-Of-Publication": 2003,
+    "Publisher": "Anchor",
+    "Book-Rating": 1473
+  },
+  {
+    "Index": 5662,
+    "ISBN": 440241073,
+    "Book-Title": "The Summons",
+    "Book-Author": "John Grisham",
+    "Year-Of-Publication": 2002,
+    "Publisher": "Dell Publishing Company",
+    "Book-Rating": 1457
+  },
+  {
+    "Index": 2230,
+    "ISBN": 345342968,
+    "Book-Title": "Fahrenheit 451",
+    "Book-Author": "RAY BRADBURY",
+    "Year-Of-Publication": 1987,
+    "Publisher": "Del Rey",
+    "Book-Rating": 1415
+  },
+  {
+    "Index": 134,
+    "ISBN": 60976845,
+    "Book-Title": "Little Altars Everywhere: A Novel",
+    "Book-Author": "Rebecca Wells",
+    "Year-Of-Publication": 1996,
+    "Publisher": "Perennial",
+    "Book-Rating": 1413
+  },
+  {
+    "Index": 3354,
+    "ISBN": 345339681,
+    "Book-Title": "The Hobbit : The Enchanting Prelude to The Lord of the Rings",
+    "Book-Author": "J.R.R. TOLKIEN",
+    "Year-Of-Publication": 1986,
+    "Publisher": "Del Rey",
+    "Book-Rating": 1407
+  }
+]
